@@ -39,8 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48"/>
   
-  <!-- Ext JS -->
-  <img src="https://www.sencha.com/wp-content/uploads/2019/07/extjs-logo.svg" height="48"/>
+
 </p>
 
 ---
