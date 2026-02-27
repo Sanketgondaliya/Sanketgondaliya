@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Gondaliya</h1>
 <h3 align="center">Software Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketgondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="sanketgondaliya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketgondaliya" alt="sanketgondaliya" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sanketgondaliya.github.io/](https://sanketgondaliya.github.io/)
 
