@@ -51,9 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketgondaliya&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketgondaliya&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -61,12 +58,11 @@
 
 ✨ You can highlight your best projects here:
 
-- 🔹 **AI Face Detection System**
+- 🔹 **AI Detection System**
 - 🔹 **Machine Learning Prediction Model**
 - 🔹 **Full Stack Web Application**
 - 🔹 **Data Visualization Dashboard**
 
-(Replace these with your actual pinned projects)
 
 ---
 
