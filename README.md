@@ -1,18 +1,87 @@
 <h1 align="center">Hi 👋, I'm Sanket Gondaliya</h1>
-<h3 align="center">Software Developer </h3>
+<h3 align="center">🚀 Passionate Software Developer | AI & ML Enthusiast</h3>
 
-
-
-- 👨‍💻 All of my projects are available at [https://sanketgondaliya.github.io/](https://sanketgondaliya.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-gondaliya-94b354225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-gondaliya-94b354225/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://sanketgondaliya.github.io/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanket-gondaliya-94b354225/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanketgondaliya&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## 💫 About Me
 
+- 🔭 I’m currently working on **AI & Computer Vision Projects**
+- 🌱 Learning **Advanced Machine Learning & Backend Development**
+- 👨‍💻 All of my projects are available at:  
+  🌐 **https://sanketgondaliya.github.io/**
+- 💬 Ask me about **Python, ML, OpenCV, and Web Development**
+- ⚡ Fun fact: I love turning ideas into real-world applications!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketgondaliya&" alt="sanketgondaliya" /></p>
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,tensorflow,pytorch&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketgondaliya&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketgondaliya&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketgondaliya&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+✨ You can highlight your best projects here:
+
+- 🔹 **AI Face Detection System**
+- 🔹 **Machine Learning Prediction Model**
+- 🔹 **Full Stack Web Application**
+- 🔹 **Data Visualization Dashboard**
+
+(Replace these with your actual pinned projects)
+
+---
+
+## 🧠 Currently Exploring
+
+- 🤖 Deep Learning Architectures  
+- 🧩 System Design  
+- ☁️ Cloud Deployment  
+- ⚙️ Backend Optimization  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanket-gondaliya-94b354225/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
