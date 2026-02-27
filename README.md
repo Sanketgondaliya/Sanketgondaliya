@@ -24,17 +24,23 @@
 
 ---
 
+
+
 ## 🛠️ Languages & Tools
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,tensorflow,pytorch&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,nodejs,react,angular,tensorflow,pytorch&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv" height="48"/>
+  <!-- Data & ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48"/>
+  
+  <!-- Ext JS -->
+  <img src="https://www.sencha.com/wp-content/uploads/2019/07/extjs-logo.svg" height="48"/>
 </p>
 
 ---
